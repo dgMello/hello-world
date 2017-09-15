@@ -1,2 +1,5 @@
 # hello-world
-This program prints out the message Hello World!
+
+Hello!
+
+This is Doug.  I like programming and other things.  
